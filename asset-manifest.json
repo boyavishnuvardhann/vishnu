@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vishnu/static/css/main.f855e6bc.css",
+    "main.js": "/vishnu/static/js/main.a503e7ff.js",
+    "static/js/592.38c655b2.chunk.js": "/vishnu/static/js/592.38c655b2.chunk.js",
+    "static/media/logo.svg": "/vishnu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vishnu/index.html",
+    "main.f855e6bc.css.map": "/vishnu/static/css/main.f855e6bc.css.map",
+    "main.a503e7ff.js.map": "/vishnu/static/js/main.a503e7ff.js.map",
+    "592.38c655b2.chunk.js.map": "/vishnu/static/js/592.38c655b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a503e7ff.js"
+  ]
+}
